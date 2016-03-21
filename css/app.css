@@ -1,0 +1,24 @@
+body{
+    background-color:  linen;
+}
+
+#textBlock{
+    width: 700px;
+    height: 100px;
+    border-style: inset;
+    border-width: 10px;
+}
+
+h1 {
+    padding-left: 30%;
+}
+
+textarea{
+    background-color: aliceblue;
+    font-family: cursive;
+    font-size: 16px;
+}
+
+input {
+    background-color: navajowhite;
+}
